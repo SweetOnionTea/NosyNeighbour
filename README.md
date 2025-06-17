@@ -15,9 +15,9 @@ Everything happens **on your machine**; no cloud APIs once installed.
 
 | # | Title                                                              | Description                                                                                                        | Watch                                  |
 | - | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
-| 1 | **NosyNeighbour: An Offline AI Speech-to-Text Summarisation Tool** | Overview of the software architecture, main features, and a live demo of it in action.                             | [Watch ↗](https://youtu.be/S3RK-o-MklM) |
-| 2 | **NosyNeighbour Installation Tutorial**                            | Full walkthrough of the automated setup process using `setup.ps1`, including optional GPU configuration.           | [Watch ↗](https://youtu.be/V0FF_qVmCw8) |
-| 3 | **NosyNeighbour Configuration & Core Concepts**                    | Covers audio chunk handling, Whisper device settings, Ollama prompts, file structure, and Excel output formatting. | [Watch ↗](https://youtu.be/RKTGZAiPcbY) |
+| 1 | **NosyNeighbour: An Offline AI Speech-to-Text Summarisation Tool** | Overview of the software architecture, main features, and a live demo of it in action.                             | [https://youtu.be/S3RK-o-MklM](https://youtu.be/S3RK-o-MklM) |
+| 2 | **NosyNeighbour Installation Tutorial**                            | Full walkthrough of the automated setup process using `setup.ps1`, including optional GPU configuration.           | [https://youtu.be/V0FF_qVmCw8](https://youtu.be/V0FF_qVmCw8) |
+| 3 | **NosyNeighbour Configuration & Core Concepts**                    | Covers audio chunk handling, Whisper device settings, Ollama prompts, file structure, and Excel output formatting. | [https://youtu.be/RKTGZAiPcbY](https://youtu.be/RKTGZAiPcbY) |
 
 ---
 
